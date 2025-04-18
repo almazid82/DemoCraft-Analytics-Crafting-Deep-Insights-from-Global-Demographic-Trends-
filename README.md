@@ -1,4 +1,4 @@
-# DemoCraft-Analytics(Crafting Deep Insights from Global Demographic Trends)
+# DemoCraft-Analytics(Crafting Deep Insights from World Population Trends)
 
 
 DemoCraft Analytics is a data analysis project focused on exploring world population dynamics using publicly available demographic datasets. The project aims to uncover hidden patterns, visualize trends, and offer meaningful insights that can drive policy decisions, academic research, and global awareness.
