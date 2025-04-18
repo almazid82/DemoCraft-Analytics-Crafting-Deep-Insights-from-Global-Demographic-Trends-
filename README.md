@@ -4,6 +4,12 @@
 
 DemoCraft Analytics is a data analysis project focused on exploring world population dynamics using publicly available demographic datasets. The project aims to uncover hidden patterns, visualize trends, and offer meaningful insights that can drive policy decisions, academic research, and global awareness.
 
+### Download Dataset
+
+You can download the World Population 2024 demographic indicators Excel file from the following link:
+
+[Download Excel File](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/raw/main/World%20PP%202024_GEN_F01_DEMOGRAPHIC_INDICATORS
+
 ---
 
 ## Key Objectives
