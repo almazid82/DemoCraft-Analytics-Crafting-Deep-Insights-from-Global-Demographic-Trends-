@@ -25,11 +25,6 @@ You can download the World Population 2024 demographic indicators Excel file fro
 [Download Excel File](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/raw/main/World%20PP%202024_GEN_F01_DEMOGRAPHIC_INDICATORS
 
 
-## 🧭 Project Structure
-
-DemoCraft-Analytics/ │ ├── data/                       # Raw and processed datasets │   └── World_Population_2024.xlsx │ ├── notebooks/                  # Jupyter notebooks for EDA and visualization │   └── demo_analysis.ipynb │ ├── images/                     # Exported visualizations (charts, maps) │   └── wpp_rate_analysis.jpg │ ├── README.md └── requirements.txt
-
----
 
 ## 🔍 Analysis Scope
 
