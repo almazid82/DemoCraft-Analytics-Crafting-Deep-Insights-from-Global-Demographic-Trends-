@@ -123,9 +123,9 @@ df_selected = df_selected.ffill()
 # যদি Missing Value থাকে, তাহলে তা চেক করা
 print(df_selected.isnull().sum())  # এখন NaN আছে কি না দেখতে
 
-df_selected.to_csv("cleaned_population_data.csv", index=False)
+df_selected.to_csv("cleaned_population_data.csv", index=False)```
 
-``` <--
+
 
 
 
