@@ -128,6 +128,42 @@ df_selected.to_csv("cleaned_population_data.csv", index=False)
 
 
 
+#### ✅ ২. এরপর নিচের Markdown অংশ শুরু করো:
+
+```markdown
+## 📈 Visual Techniques Planned
+
+- Heatmaps (e.g., year-wise population growth)
+- Line graphs (e.g., life expectancy over decades)
+- Stacked bar charts (urban vs rural growth)
+- Choropleth maps (continent/country-level insights)
+- Interactive dashboards (optional in later phase)
+
+---
+
+## 🚀 Future Scope
+
+- Integration with economic and climate indicators
+- Predictive modeling using time series forecasting
+- AI-powered policy simulations
+- Bangla language version of dashboard (for local relevance)
+
+## 🤝 Contributions
+
+Want to collaborate? Suggestions, issues, and pull requests are welcome!
+
+## © License
+
+This project is open-sourced under the **MIT License**.  
+Feel free to use and expand with credit.
+
+
+
+
+
+
+
+
 
 ```markdown
 ## 📈 Visual Techniques Planned
