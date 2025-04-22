@@ -112,12 +112,23 @@ https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Glo
 
 
 
+## 📂 Cleaned Dataset
+
+We’ve prepared a cleaned version of the 2024 UN World Population dataset, ready for analysis.
+
+- **File Name:** `cleaned_population_data.csv`
+- **Content:** Contains key indicators like total population, gender breakdown, population density, and more — cleaned and formatted for analysis.
+
+**[Click here to view/download the cleaned dataset](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/raw/main/cleaned_population_data.csv)**
+
+---
+
+Feel free to fork the repo and use the dataset in your own analytics or visualization projects!
 
 
 
 
 
-###markdown
 
 ## 📈 Visual Techniques Planned
 
