@@ -65,6 +65,9 @@ The following steps were performed to prepare the dataset:
 
 ### 1. **Loading the Dataset**
 
+https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/blob/main/import%20pandas%20as%20pd%20new.py
+
+
 
 
 
