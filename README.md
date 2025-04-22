@@ -135,7 +135,8 @@ df_selected.to_csv("cleaned_population_data.csv", index=False)```python
 
 
 
-```markdown
+###markdown
+
 ## 📈 Visual Techniques Planned
 
 - Heatmaps (e.g., year-wise population growth)
