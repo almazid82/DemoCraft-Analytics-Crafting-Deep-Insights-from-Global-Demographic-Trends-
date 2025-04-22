@@ -37,6 +37,38 @@ This project will explore:
 - Fertility rate changes over time
 - Forecasting population dynamics (optional ML)
 
+
+
+# 🌍 Cleaned Global Population Dataset — Estimates Sheet (2024)
+
+This repository contains a cleaned version of the **World Population Prospects 2024** dataset (Estimates Sheet), extracted from the original Excel file provided by the United Nations.
+
+### 📂 Dataset Source
+- **File Name:** `World PP 2024_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT.xlsx`
+- **Sheet Used:** `Estimates`
+
+---
+
+## 📌 Objective
+
+To extract, clean, and prepare population-related demographic indicators from the UN dataset for further analysis, focusing on key metrics such as:
+
+- Total population
+- Male and female population
+- Population density
+
+---
+
+## ✅ Data Cleaning Workflow
+
+The following steps were performed to prepare the dataset:
+
+### 1. **Loading the Dataset**
+```python
+dfs = pd.read_excel(file_path, sheet_name=None)
+df_main = dfs["Estimates"]
+
+
 ---
 
 ## 📈 Visual Techniques Planned
