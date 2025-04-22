@@ -124,12 +124,12 @@ df_selected = df_selected.ffill()
 print(df_selected.isnull().sum())  # এখন NaN আছে কি না দেখতে
 
 df_selected.to_csv("cleaned_population_data.csv", index=False)
-```python
 
 
 
 
 
+```markdown
 ## 📈 Visual Techniques Planned
 
 - Heatmaps (e.g., year-wise population growth)
