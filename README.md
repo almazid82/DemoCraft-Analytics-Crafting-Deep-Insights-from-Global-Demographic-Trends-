@@ -125,7 +125,7 @@ print(df_selected.isnull().sum())  # এখন NaN আছে কি না দ�
 
 df_selected.to_csv("cleaned_population_data.csv", index=False)
 
-
+'''
 
 
 
