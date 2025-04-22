@@ -104,7 +104,7 @@ This structured workflow builds a solid foundation for all upcoming analytics, v
 
 
 
-### 1. **Python for Loading the Dataset in cleaning Dataset **
+### 1. **Python for cleaning Dataset **
 
 https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/blob/main/import%20pandas%20as%20pd%20new.py
 
