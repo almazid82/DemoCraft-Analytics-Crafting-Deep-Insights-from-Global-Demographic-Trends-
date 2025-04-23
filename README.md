@@ -130,6 +130,13 @@ We’ve prepared a cleaned version of the 2024 UN World Population dataset, read
 
 ![Global Population Line Chart](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/raw/main/line%20chart%20for%20global%20population%20change%20over%20time%20.jpg)
 
+### 🔧 Visualization Tool: **Tableau**
+
+This line graph was designed using **Tableau**, a powerful data visualization tool that allows for clear and interactive storytelling with data.
+
+
+---
+
 
 
 
@@ -144,6 +151,17 @@ Key Insight: A consistent upward trend in population, with visible acceleration 
 
 ## Significance of the Analysis
 This visualization offers impactful insights into global population dynamics:
+
+
+This chart shows the **steady growth of the global population** across decades:
+
+- **Exponential Growth Surge**: A sharp upward curve after the 1950s reflects the **post-industrial boom**, improved healthcare, and increasing birth rates.
+- **Growth Deceleration**: Recent data hints at a **slower growth rate**, driven by lower fertility rates, especially in developed countries.
+- **Strategic Importance**: These patterns provide critical insights for **sustainable development, policy making, and urban planning** worldwide.
+
+By using Tableau, we ensure an **interactive and insightful visual journey** into global demographic trends — a cornerstone of the **DemoCraft Analytics** mission.
+
+
 
 Historical Trends: Reflects the steady demographic growth driven by advancements in healthcare, urbanization, and global development initiatives.
 
