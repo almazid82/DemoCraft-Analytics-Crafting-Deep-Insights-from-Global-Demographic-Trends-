@@ -123,10 +123,30 @@ We’ve prepared a cleaned version of the 2024 UN World Population dataset, read
 
 ---
 
+
+# 📈 Line Graph: Global Population Change Over Time
+## Graph Overview
+This line graph depicts the steady growth of the global population from 1948 to 2026, highlighting significant demographic trends.
+
+X-Axis: Represents the years (1948–2026).
+
+Y-Axis: Total Population (in thousands), recorded as of January 1st each year.
+
+Key Insight: A consistent upward trend in population, with visible acceleration in growth during later decades.
+
+## Significance of the Analysis
+This visualization offers impactful insights into global population dynamics:
+
+Historical Trends: Reflects the steady demographic growth driven by advancements in healthcare, urbanization, and global development initiatives.
+
+Growth Acceleration: Highlights increased growth rate closer to 2026, potentially influenced by population policies and lifestyle advancements.
+
+Predictive Insight: Serves as a foundation for future population forecasting and planning.
+
 Feel free to fork the repo and use the dataset in your own analytics or visualization projects!
 
 
-
+---
 
 
 
