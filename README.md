@@ -125,6 +125,14 @@ We’ve prepared a cleaned version of the 2024 UN World Population dataset, read
 
 
 # 📈 Line Graph: Global Population Change Over Time
+
+## 📊 Global Population Change Over Time
+
+![Global Population Line Chart](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/raw/main/line%20chart%20for%20global%20population%20change%20over%20time%20.jpg)
+
+
+
+
 ## Graph Overview
 This line graph depicts the steady growth of the global population from 1948 to 2026, highlighting significant demographic trends.
 
