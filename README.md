@@ -203,13 +203,6 @@ Want to collaborate? Suggestions, issues, and pull requests are welcome!
 
 ---
 
-## © License
-
-This project is open-sourced under the **MIT License**.  
-Feel free to use and expand with credit.
-```
-___
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-al-mazid-073a87286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -217,6 +210,15 @@ ___
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamsulalmazid@gmail.com)
 
 ___
+
+## © License
+
+This project is open-sourced under the **MIT License**.  
+Feel free to use and expand with credit.
+```
+___
+
+
 
 
 
