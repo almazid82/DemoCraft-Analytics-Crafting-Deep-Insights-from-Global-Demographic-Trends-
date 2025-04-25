@@ -1,5 +1,7 @@
 # DemoCraft-Analytics(Crafting Deep Insights from World Population Trends)
 ![WPP Rate Analysis](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-/blob/main/wpp%20rate%20analysis.jpg?raw=true)
+ ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+  ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
 
 
 > "What if you could see the future of our planet — not through predictions, but through patterns hidden in numbers?"
